@@ -1,8 +1,26 @@
 {
   "scripts": {
-    "start": "servor --reload"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve .",
+    "dev": "live-server --port=3000"
   },
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving-password-1",
+  "version": "1.0.0",
+  "description": "- Understand how to manipulate cookies in web development to track and update a count.\r - Learn to implement client-side logic to increase a cookie-based count with each user interaction.",
+  "main": "script.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogi07-Suii/saving-password-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogi07-Suii/saving-password-1/issues"
+  },
+  "homepage": "https://github.com/Yogi07-Suii/saving-password-1#readme"
 }
